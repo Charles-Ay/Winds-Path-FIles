@@ -3,5 +3,5 @@
 
 # Contains
  -Database: Used for items and such  
- -Story: Used for main story
+ -Story: Used for main story  
  -Dialogue
