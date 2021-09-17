@@ -1,0 +1,24 @@
+{						
+    "Armours":{	
+      "plate":[ 
+          { 
+            "name": "Pierced Chestplate",
+            "health" : 4,
+            "defense" : 4,
+            "cost": 3
+          }, 
+          { 
+            "name": "Pierced Plate-Leggings",
+            "health" : 2,
+            "defense" : 2,
+            "cost": 3
+          }, 
+          { 
+            "name": "Pierced Plate-Helmet",
+            "health" : 1,
+            "defense" : 3,
+            "cost": 3
+          }
+        ]						
+    }
+ }
