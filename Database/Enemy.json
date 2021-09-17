@@ -1,0 +1,28 @@
+{						
+    "Enimies":[
+        { 
+            "name": "Spider",
+            "health" : 17,
+            "maxdmg" : 8,
+            "mindmg" : 5
+        }, 
+        { 
+            "name": "Zombie",
+            "health" : 25,
+            "maxdmg" : 10,
+            "mindmg" : 7
+        }, 
+        { 
+            "name": "Witch",
+            "health" : 21,
+            "maxdmg" : 20,
+            "mindmg" : 14
+        },
+        { 
+            "name": "Dark Knight",
+            "health" : 30,
+            "maxdmg" : 14,
+            "mindmg" : 10
+        }						
+    ]
+}
