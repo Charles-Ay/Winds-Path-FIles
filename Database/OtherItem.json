@@ -2,7 +2,8 @@
     "Items":[
         { 
             "name": "Health Potion",
-            "health": 10
+            "health": 10,
+            "amount": 2
         }					
     ]
 }
